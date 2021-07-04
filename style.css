@@ -1,0 +1,269 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'inter', sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+    width: 640px;
+    Height: 1803px;
+}
+
+header {
+    text-align: center;
+    background-color: #ffffff;
+    margin: 32px 40px 0 40px;
+    padding: 33px 0;
+    border-radius: 8px 8px 0 0;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.01);
+}
+
+.apple-logo {
+    width: 26px;
+    height: 32px;
+}
+
+.watch {
+    height: 24px;
+    width: 118px;
+}
+
+nav {
+    background-color: #444444;
+    margin: 0 40px;
+    padding: 16px 0;
+    border-radius: 0px 0px 8px 8px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    padding: 0 10px;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+main {
+    background-color: white;
+    margin: 32px 40px 34px 40px;
+    border-radius: 8px;
+    height: 496px;
+    width: 560px;
+}
+
+h1 {
+    padding: 48px 0 16px 72px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #0C1014;
+}
+
+
+
+p {
+    padding: 0 0 24px 74px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #515759;
+}
+
+.visit {
+    margin-left: 72px;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #1890FF;
+    margin-right: 2px;
+}
+
+.main-button {
+    margin: 131px 0 4px 0;
+    width: 128px;
+    height: 40px;
+    border-radius: 8px;
+    transition: .2s;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background: #1890FF;
+    color: white;
+}
+
+.main-button:hover {
+    background: #0d6ec9;
+}
+
+.buy {
+    margin-left: 72px;
+}
+
+.apple-watch {
+    position: absolute;
+    margin-left: 330px;
+    top: 218px;
+}
+
+.others-product {
+    background-color: #FFFFFF;
+    height: 809px;
+    width: 556px;
+    border-radius: 8px;
+    margin: 0 42px;
+}
+
+.others-product h2 {
+    color: #0C1014;
+    height: 29px;
+    width: 130px;
+    left: 70px;
+    top: 48px;
+}
+
+.others-product a {
+    color: #1890FF;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.header-products {
+    padding: 48px 70px 0 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product-apple h3 {
+    padding: 32px 0 0 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.product-apple p {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 0;
+    margin: 4px 0 13px 0;
+}
+
+.product-apple button {
+    height: 24px;
+    width: 56px;
+    border-radius: 4px;
+    background: #1890FF;
+    outline: none;
+    border: none;
+    color: #FFFFFF;
+    font-size: 10px;
+}
+
+.first-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 66px 70px 0 70px;
+}
+
+.second-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 38px 70px 0 70px;
+}
+
+.footer {
+    width: 556px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 32px auto 24px auto;
+    box-shadow: rgb(0 0 0 / 1%) 0px 4px 30px;
+    border-radius: 8px;
+    background: #FFFFFF;
+}
+
+.follow-us {
+    width: auto;
+    margin: 32px 0px 0px 84px;
+}
+
+.contact-us {
+    margin: 32px 130px 0px 0px;
+    width: auto;
+}
+
+.follow-us .paragraph-footer,
+.contact-us .paragraph-footer {
+    padding: 0;
+    margin-bottom: 21px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 20px;
+    color: #515759;
+}
+
+.follow-us .title-footer,
+.contact-us .title-footer {
+    margin-bottom: 8px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0C1014;
+}
+
+.number-tell {
+    padding: 0;
+    margin: 16px 0 8px 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 20px;
+    color: #515759;
+}
+
+.contact-us .email-support {
+    font-family: Inter;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 20px;
+    color: #1890FF;
+}
+
+.follow-us .image-social-networks {
+    cursor: pointer;
+    margin-right: 22px;
+}
