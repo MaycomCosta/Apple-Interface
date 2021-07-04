@@ -1,6 +1,6 @@
 #  Apple Interface
 
-![result](https://user-images.githubusercontent.com/81838598/124368622-295adf80-dc39-11eb-947a-28df2eb1c918.png)
+![Apple Interface](https://user-images.githubusercontent.com/81838598/124391213-edba2700-dcc5-11eb-9466-f822472f416c.png)
 
 > Apple Interface
 
