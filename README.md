@@ -4,13 +4,15 @@
 
 > Apple Interface
 
-### Ajustes e melhorias
+### Adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and future updates will focus on the following tasks:
 
-- [ ] Colocar ele no Ar
-- [ ] Adicionar JS
-
+- [x] HTML creation
+- [x] CSS creation
+- [ ] Responsive layout
+- [ ] JavaScript creation
+- [ ] Creating more screens
 
 ## 🤝 Colaboradores
 
